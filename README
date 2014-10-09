@@ -1,0 +1,19 @@
+Solution Manual to IT105:Introduction to programming course Insem-2
+
+Author: Kesha Shah
+
+Question Paper Attached
+
+1. Infinite loop of "2 2 2 2 .."
+
+2. "le"
+
+3. kernigham ritchie
+   kernigham ritchie
+
+4. Refer Code
+
+5. Refer Code
+
+6 While compiling do it with -lm option turned on to use math standard libary.
+eg. gcc 6.c -lm
